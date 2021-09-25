@@ -19,7 +19,7 @@ any additionally needed ruby libraries or DLL.
 * Both windowed/console mode supported
 * Includes gems based on usage, or from a Bundler Gemfile
 
-## Problems & Bug Reporiting
+## Problems & Bug Reporting
 
 * Windows support only
 
